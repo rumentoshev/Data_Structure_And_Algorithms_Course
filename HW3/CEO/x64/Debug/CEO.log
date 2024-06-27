@@ -1,4 +1,0 @@
-﻿  CEO.cpp
-E:\FMI2\SDA\D3\CEO\CEO.cpp(39,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-E:\FMI2\SDA\D3\CEO\CEO.cpp(43,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-  CEO.vcxproj -> E:\FMI2\SDA\D3\CEO\x64\Debug\CEO.exe

@@ -1,3 +1,0 @@
-﻿  FavNum.cpp
-E:\FMI2\SDA\D3\FavNum\FavNum.cpp(48,24): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
-  FavNum.vcxproj -> E:\FMI2\SDA\D3\FavNum\x64\Debug\FavNum.exe

@@ -1,4 +1,0 @@
-﻿  Vuprosi.cpp
-E:\FMI2\SDA\D12\Project1\Vuprosi.cpp(58,67): error C2678: binary '==': no operator found which takes a left-hand operand of type 'std::basic_ostream<char,std::char_traits<char>>' (or there is no acceptable conversion)
-E:\FMI2\SDA\D12\Project1\Vuprosi.cpp(58,67): message : could be 'built-in C++ operator==(int, int)'
-E:\FMI2\SDA\D12\Project1\Vuprosi.cpp(58,67): message : while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, int)'

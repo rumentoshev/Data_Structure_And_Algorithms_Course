@@ -1,4 +1,0 @@
-﻿  new_alphabet.cpp
-E:\FMI2\SDA\D10\New_Alphabet\new_alphabet.cpp(33,71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\FMI2\SDA\D10\New_Alphabet\new_alphabet.cpp(69,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  New_Alphabet.vcxproj -> E:\FMI2\SDA\D10\New_Alphabet\x64\Debug\New_Alphabet.exe

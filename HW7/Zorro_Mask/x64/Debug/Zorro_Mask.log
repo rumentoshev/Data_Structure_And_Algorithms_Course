@@ -1,3 +1,0 @@
-﻿  Zorro_Mask.cpp
-E:\FMI2\SDA\D7\Zorro_Mask\Zorro_Mask.cpp(41,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Zorro_Mask.vcxproj -> E:\FMI2\SDA\D7\Zorro_Mask\x64\Debug\Zorro_Mask.exe

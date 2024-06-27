@@ -1,3 +1,0 @@
-﻿  Cheater.cpp
-E:\FMI2\SDA\D7\Cheater\Cheater.cpp(41,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Cheater.vcxproj -> E:\FMI2\SDA\D7\Cheater\x64\Debug\Cheater.exe

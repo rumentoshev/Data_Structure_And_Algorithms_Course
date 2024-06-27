@@ -1,3 +1,0 @@
-﻿  Family_tree.cpp
-E:\FMI2\SDA\D6\Family_tree\Family_tree.cpp(45,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Family_tree.vcxproj -> E:\FMI2\SDA\D6\Family_tree\x64\Debug\Family_tree.exe
