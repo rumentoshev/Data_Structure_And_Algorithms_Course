@@ -1,0 +1,4 @@
+﻿  StroeneNaPutishta.cpp
+E:\FMI2\SDA\D12\StroeneNaPutishta\StroeneNaPutishta.cpp(80,55): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\FMI2\SDA\D12\StroeneNaPutishta\StroeneNaPutishta.cpp(80,49): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  StroeneNaPutishta.vcxproj -> E:\FMI2\SDA\D12\StroeneNaPutishta\x64\Debug\StroeneNaPutishta.exe

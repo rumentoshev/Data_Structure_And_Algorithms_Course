@@ -1,0 +1,3 @@
+﻿  popravka.cpp
+E:\FMI2\SDA\D11\Popravka\popravka.cpp(61,39): warning C4553: '==': result of expression not used; did you intend '='?
+  Popravka.vcxproj -> E:\FMI2\SDA\D11\Popravka\x64\Debug\Popravka.exe

@@ -1,0 +1,3 @@
+﻿  Rodope_Democ.cpp
+E:\FMI2\SDA\D5\Rodope_Democ\Rodope_Democ.cpp(79,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Rodope_Democ.vcxproj -> E:\FMI2\SDA\D5\Rodope_Democ\x64\Debug\Rodope_Democ.exe

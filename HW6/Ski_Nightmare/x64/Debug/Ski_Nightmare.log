@@ -1,0 +1,3 @@
+﻿  Ski_Nightmare.cpp
+E:\FMI2\SDA\D6\Ski_Nightmare\Ski_Nightmare.cpp(49,45): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Ski_Nightmare.vcxproj -> E:\FMI2\SDA\D6\Ski_Nightmare\x64\Debug\Ski_Nightmare.exe
